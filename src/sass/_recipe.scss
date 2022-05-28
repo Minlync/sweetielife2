@@ -1,0 +1,62 @@
+/*recipe*/
+
+
+.recipeherobanner{
+    max-width: 1400px;
+    margin:0 auto;
+    display: grid;
+    grid-template-columns:1fr;
+   }
+   .recipeheretext{
+   
+   flex-wrap: wrap;
+   display:center;
+   justify-content:center;
+   padding:40px;
+ 
+   
+   }
+
+   .step{
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:1fr;
+   }
+
+   .stepdescription{
+     width:75%;
+     padding: 40px;
+   }
+   .directions{
+    max-width: 1400px;
+    margin:0 auto;
+    padding: 40px;
+    }
+    .steplayout{
+      display:flex;
+      flex-direction:row;
+     }
+     .w30{
+       width: 30%;
+       
+     }
+  .w70{
+    width:70%
+    
+  }
+@media screen and (min-width: 500px){
+  .recipeimg{
+    padding:40px;
+    }
+  .recipeherobanner{
+  grid-template-columns: repeat(2, 1fr);
+}
+.step{
+ grid-template-columns: repeat(2, 1fr);
+ }
+}
+
+@media screen and (min-width: 1200px){
+
+}

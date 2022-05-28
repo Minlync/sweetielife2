@@ -1,0 +1,85 @@
+img{
+    width: auto; 
+   height: auto;
+   max-width: 100%; 
+ 
+ }
+ .whoweare{
+  display: block;
+   text-align:center;
+   padding:0 20%;
+ }
+ .aboutus-card{
+   display: grid;
+   grid-gap: 1rem;
+   grid-template-columns:1fr;
+   text-align:center;
+   padding:0 15%;
+ }
+ .person-card{
+   background-color:#FFC6E8;
+   border-radius: 0.8rem;
+   overflow: hidden;
+ }
+ .person-card-img {
+   display: block;
+   width: 100%;
+ }
+ .person-card-content{
+   padding: 0 10px 20px 10px;
+ }
+ @media screen and (min-width: 500px){
+   .aboutus-card{
+     grid-template-columns: repeat(3, 1fr);
+     padding:0 10%;
+   }
+ }
+ 
+ @media screen and (min-width: 1200px){
+   .aboutus-card{
+     grid-template-columns: repeat(3, 1fr);
+     grid-gap: 1rem;
+     padding:0 20%;
+
+   }
+ }
+ .history{
+   display: block;
+   text-align:left;
+   padding:0 5%; 
+ }
+ .theme-title{
+   display: block;
+   text-align:center;
+ }
+ @media screen and (min-width: 500px){
+   .history{
+     padding:0 10%;
+   }
+ }
+ 
+ @media screen and (min-width: 1200px){
+   .history{
+     padding:0 20%;
+   }
+ }
+ .history-types .icon {
+	width: 24px;
+	height: 24px;
+	stroke: #FFC6E8;
+	transition: transform 0.5s ease-in;
+  display:block;
+}
+.history-types .open .icon {
+	transform: rotate(180deg);
+}
+.history-title{
+  
+  color: #fff;
+  padding:.5rem;
+  cursor:pointer;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  max-width:px;
+}
