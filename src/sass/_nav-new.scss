@@ -4,12 +4,13 @@ header{
 }
 .navigation{
   height: 120px;
-  background: #f1d8e8;
+  background: #ffffff;
 }
 /* logo setting */
 .brand {
   position: absolute;
-  padding-left: 20px;
+  padding-left: 30px;
+  padding-top: 20px;
   float: left;
   line-height: 120px;
   text-transform: uppercase;
@@ -18,7 +19,7 @@ header{
 
 .brand a,
 .brand a:visited {
-  color:#FFC6E8;
+  color:#f284b5;
   text-decoration: none;
 }
 
@@ -42,8 +43,8 @@ nav ul li a:visited {
   display: block;
   padding:0 20px;
   line-height: 120px;
-  background: #f1d8e8;
-  color: #FFffff;
+  background: #ffffff;
+  color: #f284b5;
   text-decoration: none;
   font-family: bely, serif;
   font-weight: 400;
