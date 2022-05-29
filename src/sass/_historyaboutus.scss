@@ -30,14 +30,14 @@ img{
  }
  @media screen and (min-width: 500px){
    .aboutus-card{
-     grid-template-columns: repeat(3, 1fr);
+     grid-template-columns: repeat(2, 1fr);
      padding:0 10%;
    }
  }
  
  @media screen and (min-width: 1200px){
    .aboutus-card{
-     grid-template-columns: repeat(3, 1fr);
+     grid-template-columns: repeat(2, 1fr);
      grid-gap: 1rem;
      padding:0 20%;
 

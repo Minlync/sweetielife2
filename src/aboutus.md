@@ -11,24 +11,17 @@ pageClass: home
 </p>
   </selection>
   <selection class="aboutus-card">
- <div class="person-card">
-        <div class="person-card-image">
-      <img src="/images/om.jpg" alt="img">
-   </div>
-    <div class="person-card-content">
-  <h2 class="name">Omara T. Aguilar</h2>
-
- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, incidunt magnam. Quaerat voluptatem optio magnam laboriosam ipsa aperiam fugiat .</p>
-    </div>
- </div>
-  
-  <div class="person-card">
+   <div class="person-card">
        <div class="person-card-image">
       <img src="/images/ml.jpg" alt="img">
    </div>
     <div class="person-card-content">
   <h2 class="name">Minglin Chen </h2>
- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, incidunt magnam. Quaerat voluptatem optio magnam laboriosam ipsa aperiam fugiat .</p>
+  <h2> </h2>
+ <p> UI and Visual Design:</p>
+ <p> Color Scheme/ Logo Design/ Typeface /Wireframe</p>
+ <p> Coding Task: </p>
+ <p> HTML and Markdown/YAML + Nunjucks/CSS+JS</p>
     </div>
  </div>
 
@@ -38,7 +31,10 @@ pageClass: home
    </div>
    <div class="person-card-content">
   <h2 class="name">Xueying Liu</h2>
- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, incidunt magnam. Quaerat voluptatem optio magnam laboriosam ipsa aperiam fugiat.</p>
+ <p> UI and Visual Design:</p>
+ <p> Color Scheme/ Logo Design/ Typeface /Wireframe</p>
+ <p> Coding Task: </p>
+ <p> HTML and Markdown/YAML + Nunjucks/CSS+JS</p>
    </div>
  </div>
   </selection>
