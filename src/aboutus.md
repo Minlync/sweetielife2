@@ -18,7 +18,7 @@ pageClass: home
     <div class="person-card-content">
   <h2 class="name">Minglin Chen </h2>
   <h2> </h2>
- <p> coding and Design Manager:</p>
+ <p> Coding and Design Manager:</p>
  <p> Color Scheme/ Logo Design/ Typeface /Wireframe</p>
  <p> Coding Task: </p>
  <p> HTML and Markdown/YAML + Nunjucks/CSS+JS</p>
