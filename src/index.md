@@ -49,17 +49,17 @@ pageClass: home
         <img src="/images/s-pie2.jpg" alt="card3">
          <p class="credit"><a href="https://www.sugarandsoul.co/air-fryer-pumpkin-pie/">Photo</a> by <a href="https://www.sugarandsoul.co/">Sugarandsoul</a></p>
       </a></div>
-      <div class="card">
+      <div class="card"><a href="/r-croissant">
         <h3>Croissant</h3>
         <img src="/images/s-cro.jpg" alt="card3">
          <p class="credit"><a href="https://www.flickr.com/photos/ultrakml/32708308983/in/photolist-rfQ3uw-qwiys3-RQjCHM-CVXGvx-CXCiGZ-SeD989-TkMK7z-GAaTuR-tnf2BX-sGEnY9-XYs4Sm-KmCFsX-AeFPZt-29advba-T6Ymw3-sEyRJt-HJjBdP-rNfghW-qTxr3u-qTxq8y-vwU4YD-28LwuLW-F2ksc8-Xth7XL-Tm9SaX-ESErUE-K4KBMo-ANTTtS-Y9Mewi-KAz9qe-LUXrw1-22qWfqF-rKuPKa-rTAXLr-JHJKW6-XVM2Fn-28PimJz-yE6WXr-x1EFVt-srKgyN-sczNZk-KDP9WD-HCAU5F-AaTj9d-AaTnP9-CMSJew-T9n1Ln-Jp7wMF-FDR4hH-qwiyUL/">Photo</a> by  <a href="https://live.staticflickr.com/2880/32708308983_8f5b6621c8_b.jpg">Katherine Lim</a></p>
       </div>
-       <div class="card">
+       <div class="card"><a href="/r-cannoli">
         <h3>Cannoli</h3>
         <img src="/images/s-car.jpg" alt="card3">
          <p class="credit"><a href="https://www.flickr.com/photos/baumsfinepastries/41390385841/in/photolist-264wxG6-5QzTMA-K99T3A-E5g9Kc-K1JNWD-rkiqCX-U7HMeM-r5Tgg4-HJDnXs-xjLgWD-HGVEeY-JmUENW-JSqyFN-G8M23b-2aMiYm2-JYuAsw-K8GeSD-28EFNT-HpN39w-PXVRK-tggN16-JeEZPt-MVEPaY-VPqjYP-R5xVuD-vgqE86-GwrfKd-CPqbpQ-wb5Lym-NjgRFf-Ab2QB7-227sTJc-yAqZ6R-JmYcrn-KbsjKF-JmYhav-KfvW5U-JmYhka-JmY8hF-22bg281-s8QRgi-GUykfF-J8kk9u-EunAnz-vhv9uc-w1y1jz-rDhCwT-JeEZMV-ToS7U2-qAp5HE">Photo</a> by <a href="https://www.flickr.com/photos/baumsfinepastries/">Baum's Fine Pastries</a></p>
       </div>
-       <div class="card">
+       <div class="card"><a href="/r-berliner">
         <h3>Berliner</h3>
         <img src="/images/s-ber.jpg" alt="card3">
          <p class="credit"><a href="https://cookidoo.com.cn/recipes/recipe/en-CN/r258637">Photo</a> by <a href="https://cookidoo.com.cn/foundation/en-CN">Cookidoo</a></p>
