@@ -4,7 +4,6 @@ layout: base.njk
 tags: navItem
 pageClass: home
 ---
-
 <body>
   <article class="backgroundpink">
     <div class="hero">
