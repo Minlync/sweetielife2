@@ -2,7 +2,7 @@
 title: Pastry Blender
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/pastryblender .png"
 postImgAlt: "alt text"
 price: $13.99 
 ---

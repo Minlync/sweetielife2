@@ -2,7 +2,7 @@
 title: Offset Spatula/Spreader
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/offsetspatula.png"
 postImgAlt: "alt text"
 price: $5.99
 ---

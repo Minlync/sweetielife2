@@ -1,9 +1,8 @@
-
 ---
 title: Wooden Pastry Board / Bread Kneading Board
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/woodboard.png"
 postImgAlt: "alt text"
 price: $128.99
 ---

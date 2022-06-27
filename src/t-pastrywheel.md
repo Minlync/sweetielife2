@@ -2,7 +2,7 @@
 title: Pastry Wheel
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/pastrywheel.png"
 postImgAlt: "alt text"
 price: $7.00 
 ---

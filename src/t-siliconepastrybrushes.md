@@ -2,7 +2,7 @@
 title: Silicone Pastry brushes
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/SiliconeBrush.png"
 postImgAlt: "alt text"
 price: US $1.66 - 7.59 
 ---

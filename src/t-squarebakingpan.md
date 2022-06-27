@@ -2,7 +2,7 @@
 title: Square Baking Pan
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/SquareBakingPan.png"
 postImgAlt: "alt text"
 price: 8-Inch Square Cake Pans, Multipack of 2 $19.99
 ---
