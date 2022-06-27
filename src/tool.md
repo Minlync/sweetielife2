@@ -6,6 +6,7 @@ pageClass: home
 ---
  <main>
  <h1 class="toolstitle">Pastry Tools</h1> 
+<p class=tooltexts>For a novice baker, browsing the aisles at a local cookware store can be a daunting task. How many pans, whisks and measuring devices do you really need? Even the experienced home baker might not be using today's bevy of gadgets to the best of his or her advantage. To find out which products will go the distance, we turned to some of the top pastry chefs across the country. We had to know: What is their favorite baking tool? So read on, then go shopping before baking your next batch of cookies.</p>
      <selection class="tools-card">  
 {%- for page in collections.toolcards %}
 <div class="toolmaincontainer">
