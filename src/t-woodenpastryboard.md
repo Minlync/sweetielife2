@@ -1,10 +1,11 @@
+
 ---
-title: Hand Mixer/Stand Mixer
+title: Wooden Pastry Board / Bread Kneading Board
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: "/images/handmixer.png"
+postImg: ".jpg"
 postImgAlt: "alt text"
-price: 6-Speed Electric Hand Mixer $26.99
+price: $128.99
 ---
 <section class="tool_container">
        <img src ="https://place-hold.it/600x600.jpg">
