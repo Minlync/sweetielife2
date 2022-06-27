@@ -6,7 +6,7 @@
   max-width: 1400px;
   margin:0 auto;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr;
   }
 
 .text{
@@ -30,3 +30,10 @@
     align-items: center;
     grid-gap:auto;
 }
+
+@media screen and (min-width: 500px){
+
+.tool_container{
+  grid-template-columns: repeat(2, 1fr);
+}
+  }
