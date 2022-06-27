@@ -4,13 +4,16 @@ layout: base.njk
 tags: ['toolcards', 'navItem']
 postImg: ".jpg"
 postImgAlt: "alt text"
-price: 6-Speed Electric Hand Mixer $26.99
+price: $26.99
 ---
 <section class="tool_container">
        <img src ="https://place-hold.it/600x600.jpg">
       <div class="text">
-        <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non cupiditate repellat earum, nesciunt vero aliquam consectetur </h1>
-        <p> While you don't need to go all-out on a fancy stand mixer, you do need at least a hand mixer in your arsenal of baking essentials. It will make mixing doughs and batters faster and easier, and it's by far the best way to mix ingredients into a thick, stiff cookie dough without tiring out your arm.</p>
+        <h1>6-Speed Electric Hand Mixer with 5 Attachments and Snap-On Case<h1>
+        <p>•275 Watts of peak power and six speeds</p>
+        <p>•6-Speeds and Quickburst Button</p>
+        <p>•Bowl Rest: A built in groove lets you rest the mixer over the bowl</p>
+        <p>•Snap-on storage case has easy-access door for convenient storage</p>
         <hr />
         <!--  need add colors in the checked css-->
         <span class="fa fa-star checked"></span>
@@ -18,15 +21,19 @@ price: 6-Speed Electric Hand Mixer $26.99
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
-        <button class="tool__btn">Buy <span>&rarr;</span></button>
+       <h3>Reference Prices: <h2>$26.99</h2> </h3> 
+        <form method="get" action="https://www.amazon.com/EatSmart-ESKS-01-Precision-Digital-Kitchen/dp/B001N07KUE"><button type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->
     <div class="toolbody">
         <div class="bodycontext">
-         <h2> tittle </h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate vel totam soluta fugit praesentium ullam maiores natus provident corrupti, itaque, consectetur dolore aliquid laboriosam perferendis, officiis ratione. Magnam, aliquam provident!</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorem delectus debitis. Quaerat impedit nam velit inventore, quod quam doloribus accusamus illum, vitae culpa odio at laborum animi provident recusandae!</p>
+         <h2>Electric Hand Mixer, Beaters and Whisk, with Snap-On </h2>
+        <p>Baking with ease: with 6 speeds, including a slower first speed and quick burst button, you can adjust this handheld kitchen mixer to accommodate any recipe.
+          Snap-on storage case: This hand mixer includes a handy Snap-on storage case with easy-access door for convenient storage.
+          Easy to handle: with 275 watts of peak power to handle your baking needs.
+          Versatile attachments: The mixer includes easy to clean traditional beaters, dough hooks and whisk.
+            Bowl rest: a built-in groove lets you rest The hand mixer over the bowl, so drips go where they belong and not all over your countertop.</p>
         </div>
         <div class="bodyimg">
          <img src ="https://place-hold.it/400x400.jpg">
