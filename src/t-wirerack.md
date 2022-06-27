@@ -2,7 +2,7 @@
 title: Steel Cooling Rack
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/WireRack.png"
 postImgAlt: "alt text"
 price: $14.95 
 ---

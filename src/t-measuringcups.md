@@ -2,7 +2,7 @@
 title: Measuring Cups
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/measuringups.png"
 postImgAlt: "alt text"
 price:  $6.87 
 ---

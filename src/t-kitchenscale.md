@@ -2,7 +2,7 @@
 title: Kitchen Scales
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/kitchenscale.png"
 postImgAlt: "alt text"
 price: $27.12
 ---

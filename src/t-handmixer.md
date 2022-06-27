@@ -2,7 +2,7 @@
 title: Hand Mixer/Stand Mixer
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/handmixer.png"
 postImgAlt: "alt text"
 price: $26.99
 ---

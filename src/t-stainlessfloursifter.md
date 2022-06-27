@@ -2,7 +2,7 @@
 title: Stainless Flour Sifter
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/StainlessFlourSifter.png"
 postImgAlt: "alt text"
 price: $17.95
 ---

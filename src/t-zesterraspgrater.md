@@ -2,7 +2,7 @@
 title: Zester/Rasp Grater
 layout: base.njk
 tags: ['toolcards', 'navItem']
-postImg: ".jpg"
+postImg: "/images/zester.png"
 postImgAlt: "alt text"
 price: $14.99 
 ---
