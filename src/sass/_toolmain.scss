@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+.tools-card{
+    max-width: 1400px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: auto;
+  }
+
 .toolmaincontainer{
   position: relative;
-  display: flex;
+  // display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 550px;
 }
 .toolstitle{
   text-align: center;
@@ -90,6 +97,7 @@
   letter-spacing: 1px;
   color: #fff;
   margin: 0;
+  font-size: 22px;
 }
 
 .toolmaincontainer .toolmaincard .contentBx .price {
@@ -113,9 +121,9 @@
 
 .toolmaincontainer .toolmaincard .contentBx .price h3{
   color: #fff;
-  font-weight: 300;
-  font-size: 14px;
-  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 20px;
+  // text-transform: uppercase;
   letter-spacing: 2px;
   margin-right: 10px;
 }
