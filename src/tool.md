@@ -2,9 +2,8 @@
 title: tool
 layout: base.njk
 tags: navItem
-pageClass: home
+pageClass: toolcollector
 ---
- <main>
  <h1 class="toolstitle">Pastry Tools</h1> 
      <selection class="tools-card">  
 {%- for page in collections.toolcards %}
@@ -25,5 +24,5 @@ pageClass: home
 
 {%- endfor %}
   </selection>
-    </main>
+
 
