@@ -72,22 +72,38 @@ pageClass: home
     <h1 class="title">Pastry Tools</h1>
     <div class="lesson">
       <div class="lessoncard">
-       <img src="https://place-hold.it/335x335.jpg" alt="img">
-       <p class="credit"><a href="https://wordpress.org/openverse/image/ac4250d7-7926-46ea-9346-95cfb812f5f8">Photo</a> by <a href="https://www.flickr.com/photos/41431665@N07">COD Newsroom</a></p>
-      </div>
-      <div class="lessoncard">
-       <img src="https://place-hold.it/335x335.jpg" alt="img">
-       <p class="credit"><a href="https://wordpress.org/openverse/image/649603c8-3e7f-4a79-a6f9-bb2743dd6b95">Photo</a> by <a href="https://www.flickr.com/photos/45802067@N03">BC Gov Photos</a></p>
-      </div>
-      <div class="lessoncard">
-       <img src="https://place-hold.it/335x335.jpg" alt="img">
-       <p class="credit"><a href="https://wordpress.org/openverse/image/649603c8-3e7f-4a79-a6f9-bb2743dd6b95">Photo</a> by <a href="https://www.flickr.com/photos/45802067@N03">BC Gov Photos</a></p>
-      </div>
-      <div class="lessoncard">
-       <img src="https://place-hold.it/335x335.jpg" alt="img">
-       <p class="credit"><a href="https://wordpress.org/openverse/image/649603c8-3e7f-4a79-a6f9-bb2743dd6b95">Photo</a> by <a href="https://www.flickr.com/photos/45802067@N03">BC Gov Photos</a></p>
-      </div>
+        <a href="/t-stainlessfloursifter">
+       <img src="/images/FlourSifter.jpg" alt="img"></a>
        </div>
+      <div class="lessoncard">
+       <a href="/t-kitchenscale">
+       <img src="/images/DigitalKitchenScale.jpg" alt="img"></a>
+       </div>
+      <div class="lessoncard">
+      <a href="/t-measuringcups">
+       <img src="/images/MeasuringCups.jpg" alt="img"></a>
+       </div>
+      <div class="lessoncard">
+       <a href="/t-wirerack">
+       <img src="/images/steel-cooling-rack-o.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-siliconepastrybrushes">
+       <img src="/images/whitePastryBrush.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="t-pastrywheel">
+      <img src="/images/pastrywheel.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-zesterraspgrater">
+       <img src="/images/Zester Grater.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-handmixer">
+       <img src="/images/Electric Hand Mixer.jpg" alt="img"></a>
+       </div>
+       </div><!--end-->
     </div>
   </section>
   
