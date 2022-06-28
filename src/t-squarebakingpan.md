@@ -33,9 +33,9 @@ price: $13.11
          <p>You don't always need to make a huge pan of brownies, and when you just want a small batch, you'll need a square baking pan. Cookie bars, cakes, brownies, and corn bread are just a few of the baked goods you can create using this baking essential.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/square1.jpg">
+          <img src ="/images/tooldetail/square2.jpg"> 
+          <img src ="/images/tooldetail/square3.jpg"> 
         </div>
       </div>
 

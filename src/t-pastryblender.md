@@ -9,7 +9,7 @@ price: $13.99
 <section class="tool_container">
        <img src ="/images/blender.jpg">
       <div class="text">
-        <h1>Stainless Steel Stackable Measuring Cups Set<h1>
+        <h1>KitchenAid Pastry Blender Black<h1>
         <p>If you're big on baking pies and flaky biscuits, this is a handy tool to have. It'll make cutting cold butter or shortening into flour much easier. However, if you don't have one, you can use two butter knives instead. Just move the knives in a crisscross motion to cut the butter into the flour.</p>
         <p>•Great for incorporating ingredients</p>
         <p>•Made with sturdy yet flexible stainless steel wires</p>

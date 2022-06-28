@@ -29,9 +29,9 @@ price: $128.99
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorem delectus debitis. Quaerat impedit nam velit inventore, quod quam doloribus accusamus illum, vitae culpa odio at laborum animi provident recusandae!</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/wood1.jpg">
+          <img src ="/images/tooldetail/wood2.jpg"> 
+          <img src ="/images/tooldetail/wood3.jpg"> 
         </div>
       </div>
 

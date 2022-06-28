@@ -32,8 +32,8 @@ price: $17.95
          <p>A basic crank-style sifter is a favorite among bakers, and this 3-cup sifter shows exactly why that is. The sifter is tough enough to handle different types of flour and other coarse ingredients, like bran or almond meal. The canister has measurement markings engraved into the metal to read on the inside of the sifter. This way, you can measure amounts as you pour them into the sifter or see how much more you have left to sift. The manufacturer recommends simply wiping this clean with a cloth rather than immersing it in water, but some reviewers have hand-washed the sifter, and others have washed it in the dishwasher with no issues.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/flour1.jpg">
+          <img src ="/images/tooldetail/flour2.jpg"> 
+          <img src ="/images/tooldetail/flour3.jpg"> 
         </div>
       </div>

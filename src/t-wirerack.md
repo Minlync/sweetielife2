@@ -35,9 +35,9 @@ price: $14.95
          <p>No one wants soggy, overbaked cookies and cakes for dessert, so make sure you've got a wire rack on hand. This handy tool allows air to circulate around baked goods as they cool, so they'll taste just as great at room temperature as they did fresh from the oven.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/rack1.jpg">
+          <img src ="/images/tooldetail/rack2.jpg"> 
+          <img src ="/images/tooldetail/rack3.jpg"> 
         </div>
       </div>
 

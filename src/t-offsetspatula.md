@@ -7,9 +7,9 @@ postImgAlt: "alt text"
 price: $5.99
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/offset.jpg">
       <div class="text">
-        <h1>Stainless Steel Stackable Measuring Cups Set<h1>
+        <h1>Offset Spatula/Spreader<h1>
         <p>Offset spatulas make the perfect, basic multi-purpose tool. Use them to smooth icing, stencil designs, and lift cookie dough off of counters, or decorate.</p>
         <p>•Green handle</p>
         <p>•9" (22.9 cm)</p>
@@ -34,9 +34,9 @@ price: $5.99
         <p>While this tool is great for putting the finishing touches on cakes or a pan of brownies, it's probably not one you'll use every day. But if you want the frosting on your baked goods to look almost perfectly smooth, it's hard to beat an offset spatula for the job.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+           <img src ="/images/tooldetail/off1.jpg">
+          <img src ="/images/tooldetail/off2.jpg"> 
+          <img src ="/images/tooldetail/off3.jpg"> 
         </div>
       </div>
 

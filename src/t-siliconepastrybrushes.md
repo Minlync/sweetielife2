@@ -33,9 +33,9 @@ price: $1.00
          <p>Pastry brushes are helpful for applying sauces, oils, glazes, and other liquids to dishes before and during the cooking process. Unlike nylon bristles, silicone bristles are non-porous, meaning they are resistant to bacterial buildup and a whopping 35 times more hygienic than standard nylon brushes. When it comes to cleansing your skin, there's really no comparison when it comes to which material is the safest and cleanest option</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/brush.png">
+          <img src ="/images/tooldetail/brush2.png"> 
+          <img src ="/images/tooldetail/brush3.png"> 
         </div>
       </div>
 

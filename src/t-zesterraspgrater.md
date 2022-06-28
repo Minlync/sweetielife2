@@ -25,7 +25,7 @@ price: $14.99
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$14.95</h2> </h3> 
-        <form method="get" action="https://www.williams-sonoma.com/products/steel-cooling-rack/?clickid=W-KymDX6dxyIUqTwFH03R2FbUkDzqW15W3DCWc0&irgwc=1&cm_cat=249354&cm_ven=afshoppromo&bnrid=3917500&cm_ite=&cm_pla=ir&irpid=249354"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8?ots=1&slotNum=20&imprToken=08c0c70a-7a08-acf3-9ec&linkCode=ll1&tag=bhgamzhupdateessentialbakingtoolsabeck0821-20&linkId=bed5d0f51e39526faa354687cfddb64b&language=en_US&ref_=as_li_ss_tl&th=1"><button type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->
@@ -35,9 +35,9 @@ price: $14.99
          <p>No one wants soggy, overbaked cookies and cakes for dessert, so make sure you've got a wire rack on hand. This handy tool allows air to circulate around baked goods as they cool, so they'll taste just as great at room temperature as they did fresh from the oven.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+        <img src ="/images/tooldetail/z1.jpg">
+          <img src ="/images/tooldetail/z2.jpg"> 
+          <img src ="/images/tooldetail/z3.jpg"> 
         </div>
       </div>
 

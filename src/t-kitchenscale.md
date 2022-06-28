@@ -30,8 +30,8 @@ price: $27.12
           <p>Weigh items up to 11 lbs quickly and accurately, with results displayed in four different units: grams / ounces / pounds / kilograms. For cooks - Weigh food items directly on the scale platform or utilize the scale's tare (zero) function, which eliminates the weight of a plate or bowl and makes cleanup a snap. The high resolution screen provides easy viewing angles on any kitchen counter and the five rubber feet eliminate sliding. Additionally the three minute auto-turnoff feature ensures that you will never again lose your measurement in the middle of your recipe prep!</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+        <img src ="/images/tooldetail/scale1.jpg">
+          <img src ="/images/tooldetail/scale2.jpg"> 
+          <img src ="/images/tooldetail/scale3.jpg"> 
         </div>
       </div>

@@ -22,7 +22,7 @@ price: $26.99
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$26.99</h2> </h3> 
-        <form method="get" action="https://www.amazon.com/EatSmart-ESKS-01-Precision-Digital-Kitchen/dp/B001N07KUE"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/Hamilton-Beach-079531761001-62633R-Electric/dp/B0075WALL4?ots=1&slotNum=18&imprToken=08c0c70a-7a08-acf3-9ec&&linkCode=ll1&tag=bhgamzhupdateessentialbakingtoolsabeck0821-20&linkId=e5bd010ba3521a884e34d26bbe886d52&language=en_US&ref_=as_li_ss_tl"><button type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->
@@ -36,9 +36,9 @@ price: $26.99
             Bowl rest: a built-in groove lets you rest The hand mixer over the bowl, so drips go where they belong and not all over your countertop.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
-          <img src ="https://place-hold.it/400x400.jpg"> 
+     <img src ="/images/tooldetail/mix1.jpg">
+          <img src ="/images/tooldetail/mix2.jpg"> 
+          <img src ="/images/tooldetail/mix3.jpg"> 
         </div>
       </div>
 
