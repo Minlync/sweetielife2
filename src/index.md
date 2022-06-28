@@ -72,28 +72,36 @@ pageClass: home
     <h1 class="title">Pastry Tools</h1>
     <div class="lesson">
       <div class="lessoncard">
-       <img src="/images/FlourSifter.jpg" alt="img">
+        <a href="/t-stainlessfloursifter">
+       <img src="/images/FlourSifter.jpg" alt="img"></a>
        </div>
       <div class="lessoncard">
-       <img src="/images/DigitalKitchenScale.jpg" alt="img">
+       <a href="/t-kitchenscale">
+       <img src="/images/DigitalKitchenScale.jpg" alt="img"></a>
        </div>
       <div class="lessoncard">
-       <img src="/images/MeasuringCups.jpg" alt="img">
+      <a href="/t-measuringcups">
+       <img src="/images/MeasuringCups.jpg" alt="img"></a>
        </div>
       <div class="lessoncard">
-       <img src="/images/steel-cooling-rack-o.jpg" alt="img">
+       <a href="/t-wirerack">
+       <img src="/images/steel-cooling-rack-o.jpg" alt="img"></a>
        </div>
        <div class="lessoncard">
-       <img src="/images/whitePastryBrush.jpg" alt="img">
+       <a href="/t-siliconepastrybrushes">
+       <img src="/images/whitePastryBrush.jpg" alt="img"></a>
        </div>
        <div class="lessoncard">
-       <img src="/images/FlourSifter.jpg" alt="img">
+       <a href="t-pastrywheel">
+      <img src="/images/pastrywheel.jpg" alt="img"></a>
        </div>
        <div class="lessoncard">
-       <img src="/images/FlourSifter.jpg" alt="img">
+       <a href="/t-zesterraspgrater">
+       <img src="/images/Zester Grater.jpg" alt="img"></a>
        </div>
        <div class="lessoncard">
-       <img src="/images/FlourSifter.jpg" alt="img">
+       <a href="/t-handmixer">
+       <img src="/images/Electric Hand Mixer.jpg" alt="img"></a>
        </div>
        </div><!--end-->
     </div>
