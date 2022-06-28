@@ -5,21 +5,25 @@
 }
 
 .tools-card{
+  // margin: 0 auto;
   display: grid;
   gap: 10px;
 }
 
 .tooltexts{
+  
   padding:30px;
   text-align: center;
 }
 .toolmaincontainer{
   position: relative;
+  // display: flex;
+  
   justify-content: center;
   align-items: center;
-  padding:30px;
-  min-height:550px;
+  min-height: 550px;
 }
+
 .toolstitle{
   text-align: center;
 }
@@ -156,19 +160,6 @@
   transform: translateY(0px);
   transition-delay: 0.75s;
   
-}
-@media screen and (min-width: 400px){
-  .tools-card{
-  grid-template-columns: repeat(2, 1fr);}
-}
-@media screen and (min-width: 800px){
-  .tools-card{
-  grid-template-columns: repeat(3, 1fr);}
-}
-
-@media screen and (min-width: 1200px){
-  .tools-card{
-  grid-template-columns: repeat(4, 1fr);}
 }
 
 
