@@ -17,10 +17,9 @@
 }
 >>>>>>> minglin-2
 .tools-card{
-    // max-width: 1400px;
-    // margin: auto;
     display: grid;
     gap: 10px;
+<<<<<<< HEAD
   //  grid-template-columns: repeat(4, 1fr);
   }
 }
@@ -31,6 +30,11 @@
   // display: flex;
   
 >>>>>>> minglin-2
+=======
+ }
+.toolmaincontainer{
+  position: relative;
+>>>>>>> d33e46c (reverse)
   justify-content: center;
   align-items: center;
   padding:30px;
