@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $128.99
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/Wooden.jpg">
       <div class="text">
         <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non cupiditate repellat earum, nesciunt vero aliquam consectetur </h1>
         <p> While you don't need to go all-out on a fancy stand mixer, you do need at least a hand mixer in your arsenal of baking essentials. It will make mixing doughs and batters faster and easier, and it's by far the best way to mix ingredients into a thick, stiff cookie dough without tiring out your arm.</p>
@@ -18,8 +18,8 @@ price: $128.99
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
-        <button class="tool__btn">Buy <span>&rarr;</span></button>
-      </div>
+        <h3>Reference Prices: <h2>$89.99</h2> </h3> 
+        <form method="get" action="https://www.amazon.com/dp/B07S3Z6DZH?pd_rd_i=B07S3Z6DZH&pf_rd_p=7672bfb7-93b0-4322-b745-2104db09c4df&pf_rd_r=1FCP3BN2GRXEJKV74KX8&pd_rd_wg=kEko2&pd_rd_w=K4MV5&pd_rd_r=edb346ee-a696-4883-ad62-4eb744bd2bf8"><button type ="submit">BUY</button></form>
         </section>
     <!-- content-->
     <div class="toolbody">

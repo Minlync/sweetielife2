@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price:  $6.87 
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/MeasuringCups.jpg">
       <div class="text">
         <h1>Stainless Steel Stackable Measuring Cups Set<h1>
         <p>4 PCS Solid Sturdy Stainless Steel Stackable Measuring Cups Set to Measure Dry and Liquid Ingredients for Kitchen Cooking Baking</p>

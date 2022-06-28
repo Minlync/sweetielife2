@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $14.95 
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/steel-cooling-rack-o.jpg">
       <div class="text">
         <h1>Steel Cooling Rack <h1>
         <p>Freshly baked cakes, cookies and breads cool uniformly on this rack, which is elevated to keep their undersides crisp.</p>

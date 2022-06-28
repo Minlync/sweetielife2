@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $13.11
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/squarepan.jpeg">
       <div class="text">
         <h1>Silicone Pastry brushes<h1>
         <p>When you purchase this multipack you get two premium cake pans at one great price so you can bake twice the treats! These non-stick square cake pans are perfect for baking cakes, cinnamon rolls, brownies and more. Non-stick surface is great for easy cleanup and its heavy gauge design means even heating for years of baking.</p>

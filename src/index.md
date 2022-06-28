@@ -103,6 +103,22 @@ pageClass: home
        <a href="/t-handmixer">
        <img src="/images/Electric Hand Mixer.jpg" alt="img"></a>
        </div>
+       <div class="lessoncard">
+       <a href="/t-offsetspatula">
+       <img src="/images/offset.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-woodenpastryboard">
+       <img src="/images/Wooden.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-squarebakingpan">
+       <img src="/images/squarepan.jpeg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-pastryblender">
+       <img src="/images/blender.jpg" alt="img"></a>
+       </div>
        </div><!--end-->
     </div>
   </section>

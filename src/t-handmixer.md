@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $26.99
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/Electric Hand Mixer.jpg">
       <div class="text">
         <h1>6-Speed Electric Hand Mixer with 5 Attachments and Snap-On Case<h1>
         <p>•275 Watts of peak power and six speeds</p>

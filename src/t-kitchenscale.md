@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $27.12
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/DigitalKitchenScale.jpg">
       <div class="text">
         <h1>Digital Kitchen Scale</h1>
         <p>Make sure your pastries come out perfectly every single time by making them with exactly the right amount of ingredients. Ensure precise measurements with a digital kitchen scale ($15). That way, your flour, sugar, butter and other ingredients will be in perfect proportions. Use it to make our butteriest, flakiest pastry recipes.</p>

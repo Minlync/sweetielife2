@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $17.95
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/FlourSifter.jpg">
       <div class="text">
         <h1> Stainless Steel 3 Cup Flour Sifter<h1>
         <p>•This sifter holds more flour or powdered sugar than most sifters made for home use. Measurements are stamped right into the metal and can easily be read from inside the sifter as well as outside.</p>

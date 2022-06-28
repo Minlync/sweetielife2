@@ -7,7 +7,7 @@ postImgAlt: "alt text"
 price: $14.99 
 ---
 <section class="tool_container">
-       <img src ="https://place-hold.it/600x600.jpg">
+       <img src ="/images/Zester Grater.jpg">
       <div class="text">
         <h1>Steel Cooling Rack <h1>
         <p>If you think using a special grater is the only possible way to zest a lemon, think again. While having this tool on hand will certainly make zesting easier, it's not strictly necessary. If you don't have one, you can use a sharp knife to slice off thin slices of the peel, then finely chop them. Voilà, lemon zest.</p>

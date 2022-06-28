@@ -23,8 +23,8 @@ price: $5.99
         <span class="fa fa-star checked"></span>
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
-       <h3>Reference Prices: <h2>$5.99</h2> </h3> 
-        <form method="get" action="https://www.michaels.com/sweet-sugarbelle-9in-offset-spatula/10667677.html?utm_source=CJ&utm_medium=4522830&utm_campaign=11846545&cm_mmc=Affiliate-_-CJ-_-4522830-_-11846545&affSource=4522830_11846545&cjevent=b005d003f29011ec822b00630a82b836&cjdata=MXxOfDB8WXww"><button type ="submit">BUY</button></form>
+       <h3>Reference Prices: <h2>$12.99</h2> </h3> 
+        <form method="get" action="https://www.amazon.com/Offset-Spatula-Decorating-Stainless-Steel/dp/B09P3VQ6RD/ref=sr_1_1_sspa?crid=2G9AACGB2080L&keywords=Offset+Spatula%2FSpreader&qid=1656451339&s=home-garden&sprefix=offset+spatula%2Fspreader%2Cgarden%2C62&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTEoyVDdKUFhST00xJmVuY3J5cHRlZElkPUEwMjM0MzEyMVpLVlFJUE9XSFFGVCZlbmNyeXB0ZWRBZElkPUEwMjEyMzc1UFAxVjE1S09EWjA1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="><button type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->
