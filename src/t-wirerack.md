@@ -25,7 +25,7 @@ price: $14.95
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$14.95</h2> </h3> 
-        <form method="get" action="https://www.williams-sonoma.com/products/steel-cooling-rack/?clickid=W-KymDX6dxyIUqTwFH03R2FbUkDzqW15W3DCWc0&irgwc=1&cm_cat=249354&cm_ven=afshoppromo&bnrid=3917500&cm_ite=&cm_pla=ir&irpid=249354"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.williams-sonoma.com/products/steel-cooling-rack/?clickid=W-KymDX6dxyIUqTwFH03R2FbUkDzqW15W3DCWc0&irgwc=1&cm_cat=249354&cm_ven=afshoppromo&bnrid=3917500&cm_ite=&cm_pla=ir&irpid=249354"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->

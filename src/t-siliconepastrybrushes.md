@@ -23,7 +23,7 @@ price: $1.00
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$1.00~3.00</h2> </h3> 
-        <form method="get" action="https://www.aliexpress.com/item/2251832711539839.html?gatewayAdapt=4itemAdapt"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.aliexpress.com/item/2251832711539839.html?gatewayAdapt=4itemAdapt"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->

@@ -22,7 +22,7 @@ price: $17.95
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$13.11</h2> </h3> 
-        <form method="get" action="https://www.amazon.com/dp/B00XIIHKFO?tag=thespruceeats-onsite-prod-20&linkCode=ogi&th=1&psc=1&ascsubtag=4769509%7Cn6a55f7722b3a41989b84fd519d65eb5b01%7CB00XIIHKFO"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/dp/B00XIIHKFO?tag=thespruceeats-onsite-prod-20&linkCode=ogi&th=1&psc=1&ascsubtag=4769509%7Cn6a55f7722b3a41989b84fd519d65eb5b01%7CB00XIIHKFO"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->

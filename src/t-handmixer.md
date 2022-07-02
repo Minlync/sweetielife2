@@ -22,7 +22,7 @@ price: $26.99
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$26.99</h2> </h3> 
-        <form method="get" action="https://www.amazon.com/Hamilton-Beach-079531761001-62633R-Electric/dp/B0075WALL4?ots=1&slotNum=18&imprToken=08c0c70a-7a08-acf3-9ec&&linkCode=ll1&tag=bhgamzhupdateessentialbakingtoolsabeck0821-20&linkId=e5bd010ba3521a884e34d26bbe886d52&language=en_US&ref_=as_li_ss_tl"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/Hamilton-Beach-079531761001-62633R-Electric/dp/B0075WALL4?ots=1&slotNum=18&imprToken=08c0c70a-7a08-acf3-9ec&&linkCode=ll1&tag=bhgamzhupdateessentialbakingtoolsabeck0821-20&linkId=e5bd010ba3521a884e34d26bbe886d52&language=en_US&ref_=as_li_ss_tl"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->

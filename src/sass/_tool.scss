@@ -26,9 +26,24 @@
   padding:20px;
     justify-content: center;
     display:grid;
-    grid-template-columns: repeat(3, 1fr);
+    // grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    grid-gap:auto;
+    // grid-gap:auto;
+}
+.button{
+  background-color:#ffc6e8;;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.button:hover
+{
+  background-color:#A7664E;
 }
 
 @media screen and (min-width: 500px){

@@ -19,7 +19,7 @@ price: $128.99
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
         <h3>Reference Prices: <h2>$89.99</h2> </h3> 
-        <form method="get" action="https://www.amazon.com/dp/B07S3Z6DZH?pd_rd_i=B07S3Z6DZH&pf_rd_p=7672bfb7-93b0-4322-b745-2104db09c4df&pf_rd_r=1FCP3BN2GRXEJKV74KX8&pd_rd_wg=kEko2&pd_rd_w=K4MV5&pd_rd_r=edb346ee-a696-4883-ad62-4eb744bd2bf8"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/dp/B07S3Z6DZH?pd_rd_i=B07S3Z6DZH&pf_rd_p=7672bfb7-93b0-4322-b745-2104db09c4df&pf_rd_r=1FCP3BN2GRXEJKV74KX8&pd_rd_wg=kEko2&pd_rd_w=K4MV5&pd_rd_r=edb346ee-a696-4883-ad62-4eb744bd2bf8"><button class="button" type ="submit">BUY</button></form>
         </section>
     <!-- content-->
     <div class="toolbody">

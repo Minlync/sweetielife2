@@ -19,7 +19,7 @@ price: $27.12
         <span class="fa fa-star  checked"></span>
         <span class="fa fa-star"></span>
         <h3>Reference Prices: <h2>$27.12</h2> </h3> 
-        <form method="get" action="https://www.amazon.com/EatSmart-ESKS-01-Precision-Digital-Kitchen/dp/B001N07KUE"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.amazon.com/EatSmart-ESKS-01-Precision-Digital-Kitchen/dp/B001N07KUE"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->

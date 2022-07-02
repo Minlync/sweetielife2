@@ -23,7 +23,7 @@ price: $13.11
         <span class="fa fa-star"></span>
         <span class="fa fa-star"></span>
        <h3>Reference Prices: <h2>$13.11</h2> </h3> 
-        <form method="get" action="https://www.walmart.com/ip/Wilton-Perfect-Results-Premium-Non-Stick-Bakeware-8-Inch-Square-Cake-Pans-Multipack-of-2/352455329?irgwc=1&sourceid=imp_ST73ISS1%3AxyIR-B2Vz2IbyxVUkDzqT1tW3DCW"><button type ="submit">BUY</button></form>
+        <form method="get" action="https://www.walmart.com/ip/Wilton-Perfect-Results-Premium-Non-Stick-Bakeware-8-Inch-Square-Cake-Pans-Multipack-of-2/352455329?irgwc=1&sourceid=imp_ST73ISS1%3AxyIR-B2Vz2IbyxVUkDzqT1tW3DCW"><button class="button" type ="submit">BUY</button></form>
       </div>
         </section>
     <!-- content-->
