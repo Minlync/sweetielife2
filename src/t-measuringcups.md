@@ -33,8 +33,8 @@ price:  $6.87
         <p>Baking is all about precision, so having a full set of measuring cups and spoons on hand is a must. Don't think you can get by with just one type of measuring cup, you'll need both dry and wet measuring cups to accurately measure all your ingredients. Keep these tools in a spot that's easy to reach, because you'll use them all the time.Olive oil, Vinegar, Mustard, Ground cumin, Chili powder, Dried oregano, Salt, Ground black pepper and many more.</p>
         </div>
         <div class="bodyimg">
-         <img src ="https://place-hold.it/400x400.jpg">
-          <img src ="https://place-hold.it/400x400.jpg"> 
+         <img src ="/images/tooldetail/CupSet.jpg">
+          <img src ="/images/tooldetail/CupSet2.jpg"> 
           <img src ="https://place-hold.it/400x400.jpg"> 
         </div>
       </div>
