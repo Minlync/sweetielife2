@@ -18,7 +18,7 @@ pageClass: home
     <div class="person-card-content">
   <h2 class="name">Minglin Chen </h2>
   <h2> </h2>
- <p> Coding and Design Manager:</p>
+ <p> Coding and Design Manager</p>
  <p> Color Scheme/ Logo Design/ Typeface /Wireframe</p>
  <p> Coding Task: </p>
  <p> HTML and Markdown/YAML + Nunjucks/CSS+JS</p>
@@ -31,8 +31,8 @@ pageClass: home
    </div>
    <div class="person-card-content">
   <h2 class="name">Xueying Liu</h2>
- <p> Documentation Organizer, Project Manager</p>
- <p> Articles resercher/Wireframe/programming support</p>
+ <p> Documentation Organizer and Project Manager</p>
+ <p> Articles resercher/Wireframe/Programming Support</p>
  <p> Coding Task: </p>
  <p> HTML and Markdown/YAML + Nunjucks/CSS+JS</p>
    </div>
