@@ -9,7 +9,7 @@ pageClass: home
   <section class="recipeherobanner">
   <div class="recipeimg">
     <img src="http://cloud.foodista.com/content/images/edbf3e54a24dce1b46e2ad9254cbf324d488d665_607x400.jpg" alt="img">
-    <p class="credit"><a href="https://www.foodista.com/profile/BY8ZF7CD/ping">Ping</a></p>
+    <p class="credit"><a href="https://www.flickr.com/photos/shogunangel/16671170611/in/photolist-rpb7d4-X6hgtz-7i5hCE-9Aes6y-X6hjRM-28MbcdA-W4Mg2g-22jVwbq-c2QpRu-c2Qq3s-oR6sqo-Jo5TSZ-c2QpZ9-XhVxmv-28ewhyZ-5zHZGH-fCiTCL-2hdNwmw-75SJmR-XhVqxa-JLYYFC-rMHRWB-4SZtXp-6b7gHM-5bnW6V-2ikp1mt-2duZTty-4ULVXV-4szp6s-J5QLXo-6FMyYy-L9ur3N-2mC9xWS-x2M8v-RrDBt-onSMzj-2mgERcE-oR5ZR3-4SGkNo-9mE7Pb-asD77a-bEUQ1-Wch3wq-XhVrQv-zJUR6E-2gi6Wp7-HTeQC7-eKmB93-9mE8YA-6pZ4Uz">Photo</a> by <a href="https://www.flickr.com/photos/shogunangel/">shogunangel</a></p>
     </div>
     <div class="recipeheretext">
     <h1>Macarudolph (Red Velvet Macarons)</h1>
@@ -44,15 +44,15 @@ pageClass: home
       </div>
       <div class="steplayout">
        <h3 class="w30" >Step 2</h3>
-       <p class="w50">Whisk egg white with 2 - 3 drops of lemon juice until soft peaks form. Add in caster sugar in 3 lots, beating well after each addition. Beat on high until stiff peaks stage.</p>
+       <p class="w70">Whisk egg white with 2 - 3 drops of lemon juice until soft peaks form. Add in caster sugar in 3 lots, beating well after each addition. Beat on high until stiff peaks stage.</p>
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 3</h3>
-       <p class="w50">Fold in sifted mixture and color gel. Do not overmix. (It's been recommended to have no more than 40 folds).</p>
+       <p class="w70">Fold in sifted mixture and color gel. Do not overmix. (It's been recommended to have no more than 40 folds).</p>
       </div>
       <div class="steplayout">
          <h3 class="w30">Step 4</h3>
-         <p class="w50">Line trays with parchment or baking mat.</p>
+         <p class="w70">Line trays with parchment or baking mat.</p>
         </div>
       <div class="steplayout">
           <h3 class="w30">Step 5</h3>

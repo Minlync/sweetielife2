@@ -42,19 +42,19 @@ pageClass: home
       <h2>Directions</h2>
       <div class="steplayout">
       <h3 class="w30">Step 1</h3>
-      <p class="w50">Combine the luke warm milk and yeast and set aside for 5 minutes. It should be bubbly. If not, start over (your milk may have been too hot or too cold). In the bowl of a standmixer, combine all ingredients for the dough and knead for 10 minutes on the medium-low setting. Cover the bowl and allow to rest in a warm spot until doubled in size, about one hour.</p>
+      <p class="w70">Combine the luke warm milk and yeast and set aside for 5 minutes. It should be bubbly. If not, start over (your milk may have been too hot or too cold). In the bowl of a standmixer, combine all ingredients for the dough and knead for 10 minutes on the medium-low setting. Cover the bowl and allow to rest in a warm spot until doubled in size, about one hour.</p>
       </div>
       <div class="steplayout">
        <h3 class="w30" >Step 2</h3>
-       <p class="w50">Divide the dough up into equal pieces (best to use a kitchen scale), and using flour-dusted hands, shape each portion into a ball. Allow to rest for another 30 minutes (covered up by a clean linen towel).</p>
+       <p class="w70">Divide the dough up into equal pieces (best to use a kitchen scale), and using flour-dusted hands, shape each portion into a ball. Allow to rest for another 30 minutes (covered up by a clean linen towel).</p>
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 3</h3>
-       <p class="w50">Preheat frying oil (I used safflower oil) to 160°C/320°F and bake in batches (you will want the donuts to be able to swim on the surface) for about 5 minutes or until golden on the outside (flipping once).</p>
+       <p class="w70">Preheat frying oil (I used safflower oil) to 160°C/320°F and bake in batches (you will want the donuts to be able to swim on the surface) for about 5 minutes or until golden on the outside (flipping once).</p>
       </div>
       <div class="steplayout">
          <h3 class="w30">Step 4</h3>
-         <p class="w50">Fill each Berliner with your favorite jam using a decorating bag and filling tip and dust with powdered sugar. I also LOVE filling them with plum butter! So lecker!</p>
+         <p class="w70">Fill each Berliner with your favorite jam using a decorating bag and filling tip and dust with powdered sugar. I also LOVE filling them with plum butter! So lecker!</p>
         </div>
       <div class="credit">This text is from the <a href="https://dirndlkitchen.com/berliner-the-classic-german-donut/">dirndlkitchen Article about HOW TO MAKE DONUTS (GERMAN BERLINER).</a></div>
       </section>

@@ -48,11 +48,11 @@ pageClass: home
       </div>
       <div class="steplayout">
        <h3 class="w30">Step 3</h3>
-       <p class="w50">Turn dough out onto a floured surface; press into compact balls and knead about 6 turns to release air bubbles. Divide dough into four equal parts. Shape one at a time. Refrigerate the remaining dough.</p>
+       <p class="w70">Turn dough out onto a floured surface; press into compact balls and knead about 6 turns to release air bubbles. Divide dough into four equal parts. Shape one at a time. Refrigerate the remaining dough.</p>
       </div>
       <div class="steplayout">
          <h3 class="w30">Step 4</h3>
-         <p class="w50">Roll one part of the dough on a floured board into a circle 17 inches in diameter. With a sharp knife or pizza cutter, cut the circle into eight equal pie-shaped wedges. Roll the wedges loosely toward the point. Shape each roll into a crescent and place on an ungreased baking sheet. Allow 1 1/2 inches space between each roll.</p>
+         <p class="w70">Roll one part of the dough on a floured board into a circle 17 inches in diameter. With a sharp knife or pizza cutter, cut the circle into eight equal pie-shaped wedges. Roll the wedges loosely toward the point. Shape each roll into a crescent and place on an ungreased baking sheet. Allow 1 1/2 inches space between each roll.</p>
         </div>
       <div class="steplayout">
           <h3 class="w30">Step 5</h3>
