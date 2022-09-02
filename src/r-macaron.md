@@ -15,7 +15,6 @@ pageClass: home
     <h1>Macarudolph (Red Velvet Macarons)</h1>
     <p>A macaron is a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond meal, and food colouring.</p>
     <p>The macaron is traditionally held to have been introduced in France by the Italian chef of queen Catherine de Medici during the Renaissance. Since the 19th century, a typical Parisian-style macaron is presented with a ganache, buttercream or jam filling sandwiched between two such cookies, akin to a sandwich cookie. The confection is characterized by a smooth squared top, a ruffled circumference—referred to as the "crown" or "foot" (or "pied")—and a flat base. It is mildly moist and easily melts in the mouth. Macarons can be found in a wide variety of flavours that range from traditional (raspberry, chocolate) to unusual (foie gras, matcha)</p>
-    <p class="source">Source <a href="https://en.wikipedia.org/wiki/Macaron">Wikipedia</a></p>
     </div>
   </section>
 <!-- steps-->
