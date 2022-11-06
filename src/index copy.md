@@ -67,27 +67,61 @@ pageClass: home
 
 
   </section>
+
+  <section class="container">
     <h1 class="title">Pastry Tools</h1>
-     <selection class="tools-card">  
-{%- for page in collections.toolcards %}
-<div class="toolmaincontainer">
-  <div class="toolmaincard">
-   <div class="imgBx">
-   <img src="{{page.data.postImg}}" alt="{{page.data.postImgAlt}}" >
-        </div>
-  <div class="contentBx">
-      <h2 class="project-title">{{page.data.title}}</h2>
-      <div class="price">
-        <h3 class="project-price">Estimate Price:{{page.data.price}}</h2> 
-      </div>
-      <a href="{{page.url}}">Explore<span>&rarr;</span></a>
-  </div>
-  </div>
-</div>
-
-{%- endfor %}
-  </selection>
-
+    <div class="lesson">
+      <div class="lessoncard">
+        <a href="/t-stainlessfloursifter">
+       <img src="/images/FlourSifter.jpg" alt="img"></a>
+       </div>
+      <div class="lessoncard">
+       <a href="/t-kitchenscale">
+       <img src="/images/DigitalKitchenScale.jpg" alt="img"></a>
+       </div>
+      <div class="lessoncard">
+      <a href="/t-measuringcups">
+       <img src="/images/MeasuringCups.jpg" alt="img"></a>
+       </div>
+      <div class="lessoncard">
+       <a href="/t-wirerack">
+       <img src="/images/steel-cooling-rack-o.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-siliconepastrybrushes">
+       <img src="/images/whitePastryBrush.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="t-pastrywheel">
+      <img src="/images/pastrywheel.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-zesterraspgrater">
+       <img src="/images/Zester Grater.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-handmixer">
+       <img src="/images/Electric Hand Mixer.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-offsetspatula">
+       <img src="/images/offset.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-woodenpastryboard">
+       <img src="/images/Wooden.jpg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-squarebakingpan">
+       <img src="/images/squarepan.jpeg" alt="img"></a>
+       </div>
+       <div class="lessoncard">
+       <a href="/t-pastryblender">
+       <img src="/images/blender.jpg" alt="img"></a>
+       </div>
+       </div><!--end-->
+    </div>
+  </section>
   
  <script src="script.js"></script>
 </body>
