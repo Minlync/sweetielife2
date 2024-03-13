@@ -1,3 +1,17 @@
+This is a final school project for class MMP350 (advanced website design). The original intention of our team to create a sweetie life website aims to instruct pastry lovers on how to create delicate and delicious pastries from all over the world. 
+In my role in this project, I was the coding manager and design manager. I was responsible for creating cohesive and visually attractive front-end designs including the website user interface, logo design, color scheme, responsive site, and CSS.
+I love how colors and font can completely transform a website into something beautiful and inspiring. Vivid imagery and a fresh layout can help our website to deliver our intention effectively. I love the process of debugging and testing. It helped me strengthen my coding skill.
+
+
+
+
+
+
+
+
+
+
+
 # Eleventy Sass Starter
 
 > This is a minimal eleventy starter designed to have a similar structure to a basic web site. The repo owes a big thanks to Stephanie Eckles's [Smol Eleventy Starter](https://github.com/5t3ph/smol-11ty-starter) and [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) repositories.
